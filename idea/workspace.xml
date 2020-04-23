@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5903dc45-0f9e-4252-a462-6011337e83bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ai3diEn33tNs6oyNwZqG5OdSAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstProject" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.AutoTest.BadAutorizationWrong">
+    <configuration name="AutoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miro_autotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miro.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miro.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miro.tests.AutoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.BadAutorizationWrong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miro_autotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miro.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miro.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miro.tests.AutoTest" />
+      <option name="METHOD_NAME" value="BadAutorizationWrong" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.BadAutorizationWrongLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miro_autotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miro.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miro.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miro.tests.AutoTest" />
+      <option name="METHOD_NAME" value="BadAutorizationWrongLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.GoodAutorizationEmailSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miro_autotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miro.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miro.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miro.tests.AutoTest" />
+      <option name="METHOD_NAME" value="GoodAutorizationEmailSpace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.TestEmailNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miro_autotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miro.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miro.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miro.tests.AutoTest" />
+      <option name="METHOD_NAME" value="TestEmailNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoTest.BadAutorizationWrong" />
+        <item itemvalue="JUnit.AutoTest" />
+        <item itemvalue="JUnit.AutoTest.BadAutorizationWrongLogin" />
+        <item itemvalue="JUnit.AutoTest.GoodAutorizationEmailSpace" />
+        <item itemvalue="JUnit.AutoTest.TestEmailNegative" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5903dc45-0f9e-4252-a462-6011337e83bd" name="Default Changelist" comment="" />
+      <created>1587204675310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587204675310</updated>
+      <workItem from="1587204680523" duration="21888000" />
+      <workItem from="1587277984355" duration="4356000" />
+      <workItem from="1587282690727" duration="4054000" />
+      <workItem from="1587292738972" duration="3361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="0" key="#Intentions" timestamp="1587205307609">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1587205307609" />
+    <state x="331" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587214934832">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="331" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1587214934832" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1587227932777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587227932777" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1587310001167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587310001167" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1587310001166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587310001166" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1587310001166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587310001166" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1587310001167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587310001167" />
+    <state x="80" y="0" key="SettingsEditor" timestamp="1587293047172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="80" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587293047172" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/miro/tests/AutoTest.java</url>
+          <line>43</line>
+          <properties class="com.miro.tests.AutoTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/miro/tests/AutoTest.java</url>
+          <line>95</line>
+          <properties class="com.miro.tests.AutoTest" method="BadAutorizationWrongLogin">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/miro/tests/AutoTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/miro/tests/AutoTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
